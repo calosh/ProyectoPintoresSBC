@@ -1,0 +1,1330 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:artista="http://artistas_ecuador.org/artista/"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:obra="http://artistas_ecuador.org/obras/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:myonto="http://artistas_ecuador.org/ontology/"
+    xmlns:tipo="http://artistas_ecuador.org/tipo/"
+    xmlns:dbp="http://dbpedia.org/property/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dbo:Painter rdf:about="http://artistas_ecuador.org/artista/EduardoX.Arroyo">
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_85">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen28</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>71x50cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1992</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_88">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen31</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>9.5x17.5cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Anocheciendo_en_Mindo">
+        <dbo:technique>Acuarela y tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677506/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/66/73/15/667315774316ed5880dc31f80c6fa27a.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Anocheciendo en Mindo</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Anocheciendo en Mindo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Guápulo">
+        <dbo:picture>https://i.pinimg.com/originals/f9/69/53/f969538f893e969a80606c918aea1265.jpg</dbo:picture>
+        <dbo:technique>Tinta</dbo:technique>
+        <dbp:dimensions>18x13cm</dbp:dimensions>
+        <rdfs:label>Guápulo</rdfs:label>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678066</dbo:wikiPageExternalLink>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen7</dbo:wikiPageExternalLink>
+        <dbo:year>1997</dbo:year>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbo:year>1996</dbo:year>
+        <dbo:title>Guápulo</dbo:title>
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbp:dimensions>40x65cm</dbp:dimensions>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_117">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen60</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>35x20cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>2003</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Manantial">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678567</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/68/8d/cd/688dcd004cade97490abb726d649621b.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Manantial</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Manantial</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Horizontes_del_pasado">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen57</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>63x100cm</dbp:dimensions>
+        <dbo:title>Horizontes del pasado</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>Horizontes del pasado</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Requiem_por_Galápagos">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696701/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/01/91/c5/0191c527234925cb4081a79b7ecba79e.jpg</dbo:picture>
+        <dbp:dimensions>46x60cm</dbp:dimensions>
+        <dbo:title>Requiem por Galápagos</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Requiem por Galápagos</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Andares_y_amares">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen45</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>Andares y amares</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Andares y amares</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_72">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen15</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>20x27cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1986</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Manglar_de_emociones">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678637</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/ab/4d/8f/ab4d8f925e492a448db4a73a7c89ae1c.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Manglar de emociones</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Manglar de emociones</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Árbol_sin_raíces">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677638/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/e6/54/42/e654424b9b7487d928d6881ab56512d4.jpg</dbo:picture>
+        <dbp:dimensions>59x44cm</dbp:dimensions>
+        <dbo:title>Árbol sin raíces</dbo:title>
+        <dbo:year>1992</dbo:year>
+        <rdfs:label>Árbol sin raíces</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Amanecer_I">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677482/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/e3/61/ec/e361ec36b361de7b810f0e4dc1d9dbf2.jpg</dbo:picture>
+        <dbp:dimensions>20.5x79cm</dbp:dimensions>
+        <dbo:title>Amanecer I</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Amanecer I</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_74">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen17</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12.5x19.5cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1986</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Circo_del_sol">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677862/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/0b/19/b5/0b19b50bd686e7e96ca8e3f4023d61e6.jpg</dbo:picture>
+        <dbp:dimensions>30x35cm</dbp:dimensions>
+        <dbo:title>Circo del sol</dbo:title>
+        <dbo:year>1988</dbo:year>
+        <rdfs:label>Circo del sol</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Paisaje">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678695</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/e0/43/11/e04311c876d08ca01e715faaf4888881.jpg</dbo:picture>
+        <dbp:dimensions>20x41cm</dbp:dimensions>
+        <dbo:title>Paisaje</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Paisaje</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_118">
+        <dbo:technique>TInta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen61</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>20x35cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>2003</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Mindo_lindo">
+        <dbo:technique>Óleo y acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen53</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>18x31cm</dbp:dimensions>
+        <dbo:title>Mindo lindo</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Mindo lindo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Espíritu_que_sopla">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen52</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>97x75cm</dbp:dimensions>
+        <dbo:title>Espíritu que sopla</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Espíritu que sopla</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Propio_espíritu">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678840</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/00/d1/4f/00d14fcd9206917ef615b47ebc002988.jpg</dbo:picture>
+        <dbp:dimensions>75x104cm</dbp:dimensions>
+        <dbo:title>Propio espíritu</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Propio espíritu</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Taita_árbol">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696760</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/07/21/47/0721470b6984ba14eaf2482f67e26867.jpg</dbo:picture>
+        <dbp:dimensions>59x44cm</dbp:dimensions>
+        <dbo:title>Taita árbol</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Taita árbol</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Punto_de_ruptura">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen47</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>36x50cm</dbp:dimensions>
+        <dbo:title>Punto de ruptura</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Punto de ruptura</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Quito">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen33</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>10x35cm</dbp:dimensions>
+        <dbo:title>Quito</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Quito</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Baglady">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen51</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>Baglady</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Baglady</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_75">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen18</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12x19cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1986</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_77">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen20</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>19x13.5cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1987</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Inexpresable_sabiduría">
+        <dbo:technique>Acuarela y sanguina</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678284/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/20/d3/58/20d358e559e07a7d07ee63e0e628550b.jpg</dbo:picture>
+        <dbp:dimensions>83x53cm</dbp:dimensions>
+        <dbo:title>Inexpresable sabiduría</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>Inexpresable sabiduría</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/El_silencio_de_la_silla">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677908/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/a3/0a/0b/a30a0b62f496e0ba076e8b66ce924e89.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>El silencio de la silla</dbo:title>
+        <dbo:year>1998</dbo:year>
+        <rdfs:label>El silencio de la silla</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_107">
+        <dbo:technique>"Acrílico</dbo:technique>
+        <dbo:wikiPageExternalLink>75x110cm</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen50</dbo:picture>
+        <dbp:dimensions> tinta y acuarela"</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1998</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Marina">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678640</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/a8/38/bc/a838bcde17f3f84bb137af972de2ca75.jpg</dbo:picture>
+        <dbp:dimensions>104x75cm</dbp:dimensions>
+        <dbo:title>Marina</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Marina</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_80">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen23</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>28x18cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1985</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_94">
+        <dbo:technique>Aguada</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen37</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>19x49cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_59">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen2</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>22x15cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Ojo">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678681</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/43/19/5b/43195bafdb4020f1b089c48bb17bbfe6.jpg</dbo:picture>
+        <dbp:dimensions>18x18cm</dbp:dimensions>
+        <dbo:title>Ojo</dbo:title>
+        <dbo:year>1981</dbo:year>
+        <rdfs:label>Ojo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Hadramaut_(Montaña_de_incienso)">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678252</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/f8/64/17/f864173496fa5bc770296c382278647f.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Hadramaut (Montaña de incienso)</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Hadramaut (Montaña de incienso)</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Flores">
+        <dbo:technique>Acrílico</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen63</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>54x57cm</dbp:dimensions>
+        <dbo:title>Flores</dbo:title>
+        <dbo:year>2005</dbo:year>
+        <rdfs:label>Flores</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Desnudo">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677877</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/20/6d/24/206d24efcc84c5c73f39ad0eb6cb0f54.jpg</dbo:picture>
+        <dbp:dimensions>15x10cm</dbp:dimensions>
+        <dbo:title>Desnudo</dbo:title>
+        <dbo:year>1980</dbo:year>
+        <rdfs:label>Desnudo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_65">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen8</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12x12cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1983</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/La_calma">
+        <dbo:technique>"Sanguina</dbo:technique>
+        <dbo:wikiPageExternalLink>102x65cm</dbo:wikiPageExternalLink>
+        <dbo:picture>https://www.pinterest.es/pin/602215781397678340</dbo:picture>
+        <dbp:dimensions> acuarela"</dbp:dimensions>
+        <dbo:title>La calma</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>La calma</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/En_la_ciudad_el_tiempo_de_devora_todo">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677924</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/73/ca/16/73ca16a058157408e452e21aa395e3ea.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>En la ciudad el tiempo de devora todo</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>En la ciudad el tiempo de devora todo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_68">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen11</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>30x40cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1984</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_67">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen10</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>23x29cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1984</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Algunos_de_mis_talleres_de_Guápulo">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677463/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/98/4e/ac/984eac01edb48e90d8ed33a4c42ed2c0.jpg</dbo:picture>
+        <dbp:dimensions>55x30cm</dbp:dimensions>
+        <dbo:title>Algunos de mis talleres de Guápulo</dbo:title>
+        <dbo:year>1989</dbo:year>
+        <rdfs:label>Algunos de mis talleres de Guápulo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_97">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen40</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/El_dorado_del_estaño">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677888</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/c1/a5/65/c1a565d27210ff2c20d0652b8db4b6e8.jpg</dbo:picture>
+        <dbp:dimensions>64x103cm</dbp:dimensions>
+        <dbo:title>El dorado del estaño</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>El dorado del estaño</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_99">
+        <dbo:technique>Tinta y acrílico</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen42</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>74x56cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>2004</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_112">
+        <dbo:technique>"Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>64x103cm</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen55</dbo:picture>
+        <dbp:dimensions> tinta"</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Alba">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397675008/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/7d/77/63/7d7763632f466a6d2d44ba13e1f1d460.jpg</dbo:picture>
+        <dbp:dimensions>101x70cm</dbp:dimensions>
+        <dbo:title>Alba</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Alba</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Quintessence">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678865</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/4e/e5/2b/4ee52b3a895836af8f0a1cbc84f137c7.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Quintessence</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Quintessence</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sueño_(estudio)">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696750</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/b1/ba/1a/b1ba1ade43dce4e99c4380592b2bf8aa.jpg</dbo:picture>
+        <dbp:dimensions>25x35cm</dbp:dimensions>
+        <dbo:title>Sueño (estudio)</dbo:title>
+        <dbo:year>1981</dbo:year>
+        <rdfs:label>Sueño (estudio)</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Mi_Jesús">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678645</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/8e/c4/4f/8ec44fbc4908f74f74aae884e380983e.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>Mi Jesús</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Mi Jesús</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_101">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen44</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>18x33cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Alegrías_del_alma">
+        <dbo:technique>"Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>108x73cm</dbo:wikiPageExternalLink>
+        <dbo:picture>https://www.pinterest.es/pin/602215781397675024/</dbo:picture>
+        <dbp:dimensions> sanguina y acrilico"</dbp:dimensions>
+        <dbo:title>Alegrías del alma</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Alegrías del alma</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Equilibrio_cósmico">
+        <dbo:technique>Óleo</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677969</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/d7/db/83/d7db83b4a344cc2805fb4d70a10b40b4.jpg</dbo:picture>
+        <dbp:dimensions>47x35cm</dbp:dimensions>
+        <dbo:title>Equilibrio cósmico</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Equilibrio cósmico</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Tiempos_de_la_Tierra">
+        <dbo:technique>aguada</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696767</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/77/5c/e7/775ce7ea31033fc4e044d72e6a0f14ea.jpg</dbo:picture>
+        <dbp:dimensions>10x25cm</dbp:dimensions>
+        <dbo:title>Tiempos de la Tierra</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Tiempos de la Tierra</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Una_gota_de_silencio">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696788</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/87/4b/35/874b35db93eaac1f75faddac88a0f14f.jpg</dbo:picture>
+        <dbp:dimensions>74x104cm</dbp:dimensions>
+        <dbo:title>Una gota de silencio</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Una gota de silencio</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Yogui">
+        <dbo:technique>Aguada</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696852</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/a7/a4/0a/a7a40a923da361adfb56f094dafc6500.jpg</dbo:picture>
+        <dbp:dimensions>12x8cm</dbp:dimensions>
+        <dbo:title>Yogui</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Yogui</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Claridades_furtivas">
+        <dbo:technique>"Acrílico</dbo:technique>
+        <dbo:wikiPageExternalLink> tinta</dbo:wikiPageExternalLink>
+        <dbo:picture> lápiz"</dbo:picture>
+        <dbp:dimensions> óleo</dbp:dimensions>
+        <dbo:title>Claridades furtivas</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Claridades furtivas</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Homenaje_a_Claude_Monet">
+        <dbo:technique>Acrílico y acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen58</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>80x110cm</dbp:dimensions>
+        <dbo:title>Homenaje a Claude Monet</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>Homenaje a Claude Monet</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Homenaje_a_Su_Dungpo_(Su_Shi)">
+        <dbo:technique>Tinta con palitos</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678267</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/4f/59/20/4f592025d6cc22c14f2e1e774cabcce9.jpg</dbo:picture>
+        <dbp:dimensions>63x82cm</dbp:dimensions>
+        <dbo:title>Homenaje a Su Dungpo (Su Shi)</dbo:title>
+        <dbo:year>1998</dbo:year>
+        <rdfs:label>Homenaje a Su Dungpo (Su Shi)</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Renacer">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696694</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/b7/01/f2/b701f2a004c2f02485c93273740a5beb.jpg</dbo:picture>
+        <dbp:dimensions>18x12cm</dbp:dimensions>
+        <dbo:title>Renacer</dbo:title>
+        <dbo:year>1981</dbo:year>
+        <rdfs:label>Renacer</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_62">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen5</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12x12cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1981</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_76">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen19</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>40x42cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1987</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Luz(Autorretrato)">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678430</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/79/c3/a5/79c3a5d9cb0cdb7323a0cfa54d47b764.jpg</dbo:picture>
+        <dbp:dimensions>30x25cm</dbp:dimensions>
+        <dbo:title>Luz(Autorretrato)</dbo:title>
+        <dbo:year>1981</dbo:year>
+        <rdfs:label>Luz(Autorretrato)</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Recuerdo_roto">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696686/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/21/93/73/219373cc4c23e608ec293f79d919db18.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>Recuerdo roto</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>Recuerdo roto</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Homenaje_a_W._Turner">
+        <dbo:technique>Óleo</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678279</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/fb/8a/f8/fb8af8b8c417c6429b2af4b18267d7b5.jpg</dbo:picture>
+        <dbp:dimensions>50x70cm</dbp:dimensions>
+        <dbo:title>Homenaje a W. Turner</dbo:title>
+        <dbo:year>2005</dbo:year>
+        <rdfs:label>Homenaje a W. Turner</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Voluntariamente_ignorado">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696836</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/29/1f/78/291f78acc3187c568e995909fd349214.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Voluntariamente ignorado</dbo:title>
+        <dbo:year>2001</dbo:year>
+        <rdfs:label>Voluntariamente ignorado</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Mis_amores">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678653</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/93/08/d6/9308d6a03c1004d8be5176ffacf0d61d.jpg</dbo:picture>
+        <dbp:dimensions>11x44cm</dbp:dimensions>
+        <dbo:title>Mis amores</dbo:title>
+        <dbo:year>2002</dbo:year>
+        <rdfs:label>Mis amores</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Jardín_Franciscano">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678292/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/ce/9f/2d/ce9f2d1cfbd1a849b83e69fa603c12ca.jpg</dbo:picture>
+        <dbp:dimensions>26x33cm</dbp:dimensions>
+        <dbo:title>Jardín Franciscano</dbo:title>
+        <dbo:year>1989</dbo:year>
+        <rdfs:label>Jardín Franciscano</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Solitude">
+        <dbo:technique>Tinta china</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen30</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>13x36cm</dbp:dimensions>
+        <dbo:title>Solitude</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Solitude</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Atman">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen39</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>64x103cm</dbp:dimensions>
+        <dbo:title>Atman</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Atman</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Documento_de_época">
+        <dbo:technique>"Óleo</dbo:technique>
+        <dbo:wikiPageExternalLink> acrílico y acuarela"</dbo:wikiPageExternalLink>
+        <dbo:picture>104x75cm</dbo:picture>
+        <dbp:dimensions> tinta</dbp:dimensions>
+        <dbo:title>Documento de época</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>Documento de época</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_79">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen22</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>20x10cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1988</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/El_más_azul_de_todos_los_azules">
+        <dbo:technique>Óleo</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677879/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/27/52/c4/2752c4fc5ca14e83dfeb14b9d6ad8e5a.jpg</dbo:picture>
+        <dbp:dimensions>45x120cm</dbp:dimensions>
+        <dbo:title>El más azul de todos los azules</dbo:title>
+        <dbo:year>2004</dbo:year>
+        <rdfs:label>El más azul de todos los azules</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Cuerpo_y_alma">
+        <dbo:technique>"Óleo</dbo:technique>
+        <dbo:wikiPageExternalLink>105x76cm</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen62</dbo:picture>
+        <dbp:dimensions> tinta y acrílico"</dbp:dimensions>
+        <dbo:title>Cuerpo y alma</dbo:title>
+        <dbo:year>2002</dbo:year>
+        <rdfs:label>Cuerpo y alma</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_81">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen24</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>20x15cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1988</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_111">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen54</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>21x40cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_84">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen27</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>30x50cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1988</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_98">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen41</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>40x24cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Asmodeo">
+        <dbo:technique>Tinta china</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen21</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>29x36cm</dbp:dimensions>
+        <dbo:title>Asmodeo</dbo:title>
+        <dbo:year>1988</dbo:year>
+        <rdfs:label>Asmodeo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Desde_hace_siglos">
+        <dbo:technique>Tinta y acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen48</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>110x75cm</dbp:dimensions>
+        <dbo:title>Desde hace siglos</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Desde hace siglos</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Árbol">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677549/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/34/97/c3/3497c3548d38f99a1fcbc3def6a60988.jpg</dbo:picture>
+        <dbp:dimensions>26.5cm</dbp:dimensions>
+        <dbo:title>Árbol</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Árbol</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Pura_boca">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678854</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/24/1a/92/241a9202669814f3541e52e5d8501b51.jpg</dbo:picture>
+        <dbp:dimensions>23.5x18cm</dbp:dimensions>
+        <dbo:title>Pura boca</dbo:title>
+        <dbo:year>1994</dbo:year>
+        <rdfs:label>Pura boca</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Hondo_silencio">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen43</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>75x104cm</dbp:dimensions>
+        <dbo:title>Hondo silencio</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Hondo silencio</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Pobres_errantes">
+        <dbo:technique>Óleo</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678761/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/95/09/0b/95090b131f838dc87310096d63609260.jpg</dbo:picture>
+        <dbp:dimensions>47x35cm</dbp:dimensions>
+        <dbo:title>Pobres errantes</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Pobres errantes</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_70">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen13</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12x17cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1985</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_69">
+        <dbo:technique>Tinta china</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen12</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12x29cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1984</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Voces_del_dolor">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696815</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/03/5f/b0/035fb00b17e669024aaa7b6add992aa3.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Voces del dolor</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Voces del dolor</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Plagados_de_adioses">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678723/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/b1/c6/72/b1c672195ff20c608278ecb86048fd2b.jpg</dbo:picture>
+        <dbp:dimensions>40x60cm</dbp:dimensions>
+        <dbo:title>Plagados de adioses</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Plagados de adioses</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Roraima">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen49</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>Roraima</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Roraima</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_116">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen59</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>74x50cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>2001</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sidartha">
+        <dbo:technique>Aguada</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen46</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>100x73cm</dbp:dimensions>
+        <dbo:title>Sidartha</dbo:title>
+        <dbo:year>1999</dbo:year>
+        <rdfs:label>Sidartha</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Silencio_de_las_dársenas">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696729</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/02/da/af/02daaf3c8687b79260863dbcf47b036e.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Silencio de las dársenas</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Silencio de las dársenas</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Flores(detalle)">
+        <dbo:technique>Acrílico</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen1</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>54x57cm</dbp:dimensions>
+        <dbo:title>Flores(detalle)</dbo:title>
+        <dbo:year>2005</dbo:year>
+        <rdfs:label>Flores(detalle)</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_71">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen14</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>18x25cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1986</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_73">
+        <dbo:technique>Aguada</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen16</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>55x40cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1986</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/S_T(detalle)">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen3</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>69x1.25cm</dbp:dimensions>
+        <dbo:title>S/T(detalle)</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>S/T(detalle)</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_92">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen35</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12x42cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Con_otra_memoria">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen32</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>6x32cm</dbp:dimensions>
+        <dbo:title>Con otra memoria</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>Con otra memoria</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Lady_Day">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678390</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/fd/b7/2c/fdb72cc6809ef092b0fb2cc62e6cb2dc.jpg</dbo:picture>
+        <dbp:dimensions>105x76cm</dbp:dimensions>
+        <dbo:title>Lady Day</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Lady Day</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Shaman">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696710</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/bd/55/63/bd55638c07080b0a5c6eff9417a3ba0e.jpg</dbo:picture>
+        <dbp:dimensions>105x75cm</dbp:dimensions>
+        <dbo:title>Shaman</dbo:title>
+        <dbo:year>2000</dbo:year>
+        <rdfs:label>Shaman</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Vavara">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696801</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/f6/58/99/f658993db1980f9ec7e47024d3561a50.jpg</dbo:picture>
+        <dbp:dimensions>26x16cm</dbp:dimensions>
+        <dbo:title>Vavara</dbo:title>
+        <dbo:year>1998</dbo:year>
+        <rdfs:label>Vavara</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Panteones_vivientes">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678704</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/4d/cc/41/4dcc411141578100f2efdf043d430a95.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Panteones vivientes</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Panteones vivientes</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Navidad_de_Plitvice">
+        <dbo:technique>Acuarela y Óleo</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397678668/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/a4/dd/55/a4dd55bf73cbbc2a2ec43e3da232a488.jpg</dbo:picture>
+        <dbp:dimensions>75x104cm</dbp:dimensions>
+        <dbo:title>Navidad de Plitvice</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Navidad de Plitvice</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/El_dolor_del_agua">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677879</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/27/52/c4/2752c4fc5ca14e83dfeb14b9d6ad8e5a.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>El dolor del agua</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>El dolor del agua</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_61">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen4</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>23x17.5cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1981</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_66">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen9</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>12x12cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1983</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:field rdf:resource="http://dbpedia.org/ontology/Painting"/>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_93">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen36</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>9x42cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_95">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen38</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>75x104cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Jardín_de_Guápulo">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen25</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>26x33cm</dbp:dimensions>
+        <dbo:title>Jardín de Guápulo</dbo:title>
+        <dbo:year>1989</dbo:year>
+        <rdfs:label>Jardín de Guápulo</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Brevedad_de_la_vida">
+        <dbo:technique>Acuarela y acrílico</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677644/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/ce/2d/99/ce2d99045d3bcd3fd4c68cee7a1c25a3.jpg</dbo:picture>
+        <dbp:dimensions>61x101cm</dbp:dimensions>
+        <dbo:title>Brevedad de la vida</dbo:title>
+        <dbo:year>2002</dbo:year>
+        <rdfs:label>Brevedad de la vida</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Jardín_Franciscano_de_Guápulo_(detalle)">
+        <dbo:technique>Plumilla</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen6</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>25x35cm</dbp:dimensions>
+        <dbo:title>Jardín Franciscano de Guápulo (detalle)</dbo:title>
+        <dbo:year>1989</dbo:year>
+        <rdfs:label>Jardín Franciscano de Guápulo (detalle)</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/17_Flores">
+        <dbo:technique>"Acrílico</dbo:technique>
+        <dbo:wikiPageExternalLink>75x58cm</dbo:wikiPageExternalLink>
+        <dbo:picture>https://www.pinterest.es/pin/602215781397674999/</dbo:picture>
+        <dbp:dimensions> acuarela y pastel"</dbp:dimensions>
+        <dbo:title>17 Flores</dbo:title>
+        <dbo:year>2005</dbo:year>
+        <rdfs:label>17 Flores</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Falacia_de_la_dualidad">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677982</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/de/d8/1d/ded81dea67ce8c1369634954f9a46e8b.jpg</dbo:picture>
+        <dbp:dimensions>112x75cm</dbp:dimensions>
+        <dbo:title>Falacia de la dualidad</dbo:title>
+        <dbo:year>1996</dbo:year>
+        <rdfs:label>Falacia de la dualidad</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Chirikahua">
+        <dbo:technique>Acuarela y tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397677662/</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/78/38/a0/7838a03c298a860cff67cb5107dc4d3d.jpg</dbo:picture>
+        <dbp:dimensions>75x104cm</dbp:dimensions>
+        <dbo:title>Chirikahua</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Chirikahua</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Shantiniketan">
+        <dbo:technique>Acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>https://www.pinterest.es/pin/602215781397696718</dbo:wikiPageExternalLink>
+        <dbo:picture>https://i.pinimg.com/originals/4d/c2/f0/4dc2f0a17beee0323d4a9f3a2228e806.jpg</dbo:picture>
+        <dbp:dimensions>75x105cm</dbp:dimensions>
+        <dbo:title>Shantiniketan</dbo:title>
+        <dbo:year>1997</dbo:year>
+        <rdfs:label>Shantiniketan</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <vcard:FN>Eduardo X. Arroyo</vcard:FN>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_83">
+        <dbo:technique>Tinta</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen26</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>45x66cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1993</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Pirámide_de_la_Luna">
+        <dbo:technique>Tinta y acuarela</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen34</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>110 x75cm</dbp:dimensions>
+        <dbo:title>Pirámide de la Luna</dbo:title>
+        <dbo:year>1998</dbo:year>
+        <rdfs:label>Pirámide de la Luna</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+    <dbo:author>
+      <dbo:Painting rdf:about="http://artistas_ecuador.org/obras/Sin_título_oficial_86">
+        <dbo:technique>Aguada</dbo:technique>
+        <dbo:wikiPageExternalLink>http://www.pinteres.com/imagen29</dbo:wikiPageExternalLink>
+        <dbo:picture>http://www.pinteres.com/imagen1.jpg</dbo:picture>
+        <dbp:dimensions>11x19cm</dbp:dimensions>
+        <dbo:title>S/T</dbo:title>
+        <dbo:year>1995</dbo:year>
+        <rdfs:label>S/T</rdfs:label>
+      </dbo:Painting>
+    </dbo:author>
+  </dbo:Painter>
+</rdf:RDF>
