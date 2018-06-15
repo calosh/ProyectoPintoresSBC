@@ -1,0 +1,333 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:myonto="http://plantas_ecuador.org/ontology/"
+    xmlns:planta="http://plantas_medicinales.org/planta/"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:j.0="http://www.w3.org/2004/02/skos/core#"
+    xmlns:enfermedad="http://enfermedades/enfermedad/"
+    xmlns:dbp="http://dbpedia.org/property/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <j.0:Concept rdf:about="http://enfermedades/enfermedad/C1"/>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Fundamentos_de_Tecnologías_de_la_Información">
+    <j.0:definition>Tecnologías emergentes </j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Gobernanza_en_Internet">
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA5">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Explica por qué un desarrollo profesional continuo y de aprendizaje a largo plazo es crítico para un profesional de Tecnologías de la Información.</j.0:definition>
+            <j.0:prefLabel>RA5</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA2">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Explica como los componentes de Tecnologías de la Información se interrelacionan.</j.0:definition>
+            <j.0:prefLabel>RA2</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA3">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Explica cómo y porqué ocurre la complejidad en Tecnologías de la Información.</j.0:definition>
+            <j.0:prefLabel>RA3</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA8">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Interpreta el contexto social de una implementación de Tecnologías de la Información</j.0:definition>
+            <j.0:prefLabel>RA8</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA9">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Identifica como el Internet ha cambiado la cara de la informática y cómo ha afectado a la sociedad.  </j.0:definition>
+            <j.0:prefLabel>RA9</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:prefLabel>Gobernanza en Internet</j.0:prefLabel>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA1">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Domina los conceptos básicos de Tecnologías de la Información.</j.0:definition>
+            <j.0:prefLabel>RA1</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA6">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Explica por qué la adaptabilidad y las habilidades interpersonales son importantes para un profesional de Tecnologías de la Información.</j.0:definition>
+            <j.0:prefLabel>RA6</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA7">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Identifica las necesidades de Tecnologías de la Información con otras disciplinas.</j.0:definition>
+            <j.0:prefLabel>RA7</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+        <j.0:related>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/RA4">
+            <j.0:definition>"Describe a TI como una disciplina y discute la historia y el futuro de la informática, así como la infraestructura actualmente utilizada  en base a esquemas tecnologícos predefinidos que le permitan distinguir y direnciar contextos de negocio especificos."</j.0:definition>
+            <j.0:prefLabel>C1</j.0:prefLabel>
+            <j.0:definition>Describe el rol del profesional de Tecnologías de la Información.</j.0:definition>
+            <j.0:prefLabel>RA4</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:related>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Seguridad digital y riesgos de privacidad </j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Evolución_de_los_modelos_de__negocio_">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:prefLabel>Evolución de los modelos de  negocio </j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Pilares_para_una_estrategia_nacional__digital._">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:prefLabel>Pilares para una estrategia nacional  digital. </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Tecnologías disruptivas Social,  Móvil, Analytics, Cloud, IoT </j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Impacto_de_las_Tecnologías_de_la_Información_y_Comunicación_en_estrategias_digitales_">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:prefLabel>Impacto de las Tecnologías de la Información y Comunicación en estrategias digitales </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Consolidación_industrial">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:prefLabel>Consolidación industrial</j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Seguridad y privacidad </j.0:definition>
+    <j.0:definition>Gobernanza en Internet</j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Tendencias_en_Tecnologías_de_la__Información_y_Comunicación_">
+        <j.0:prefLabel>Tendencias en Tecnologías de la  Información y Comunicación </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Estrategias digitales nacional</j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Seguridad_digital_y_riesgos_de_privacidad_">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:prefLabel>Seguridad digital y riesgos de privacidad </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Consolidación industrial</j.0:definition>
+    <j.0:definition>Políticas de regulación y comunicación</j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Estrategias_digitales_nacional">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:prefLabel>Estrategias digitales nacional</j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Crecimiento productividad y plazas de trabajo en economía digital. </j.0:definition>
+    <j.0:definition>Impacto de las Tecnologías de la Información y Comunicación en estrategias digitales </j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Crecimiento_productividad_y_plazas_de_trabajo_en_economía_digital._">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:prefLabel>Crecimiento productividad y plazas de trabajo en economía digital. </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Seguridad_y_privacidad_">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:prefLabel>Seguridad y privacidad </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Maquinas autónomas</j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Tecnologías_emergentes_">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:prefLabel>Tecnologías emergentes </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:prefLabel>Fundamentos de Tecnologías de la Información</j.0:prefLabel>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Fundamentos_de_Tecnologías_de_la_Información"/>
+    <j.0:definition>Evolución de los modelos de  negocio </j.0:definition>
+    <j.0:definition>Pilares para una estrategia nacional  digital. </j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/La_neutralidad_de_la_red_">
+        <j.0:prefLabel>La neutralidad de la red </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>El impacto de la expansión  inalámbrica </j.0:definition>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Adopción_y_uso_de_las_Tecnologías_de_la_Información_y_Comunicación_a_través_de_las_actividades_económicas_y_sociales_">
+        <j.0:prefLabel>Adopción y uso de las Tecnologías de la Información y Comunicación a través de las actividades económicas y sociales </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Maquinas_autónomas">
+        <j.0:prefLabel>Maquinas autónomas</j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Políticas_de_regulación_y_comunicación">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:prefLabel>Políticas de regulación y comunicación</j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Tecnologías_disruptivas_Social,__Móvil,_Analytics,_Cloud,_IoT_">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:prefLabel>"Tecnologías disruptivas Social,  Móvil, Analytics, Cloud, IoT "</j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/El_impacto_de_la_expansión__inalámbrica_">
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA5"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA9"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA3"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA6"/>
+        <j.0:prefLabel>El impacto de la expansión  inalámbrica </j.0:prefLabel>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA1"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA4"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA8"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA2"/>
+        <j.0:related rdf:resource="http://enfermedades/enfermedad/RA7"/>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Adopción y uso de las Tecnologías de la Información y Comunicación a través de las actividades económicas y sociales </j.0:definition>
+    <j.0:definition>La neutralidad de la red </j.0:definition>
+    <j.0:definition>Tendencias en Tecnologías de la  Información y Comunicación </j.0:definition>
+  </j.0:Concept>
+</rdf:RDF>

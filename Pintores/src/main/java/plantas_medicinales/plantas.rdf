@@ -1,0 +1,418 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:myonto="http://plantas_ecuador.org/ontology/"
+    xmlns:planta="http://plantas_medicinales.org/planta/"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:j.0="http://www.w3.org/2004/02/skos/core#"
+    xmlns:enfermedad="http://enfermedades/enfermedad/"
+    xmlns:dbp="http://dbpedia.org/property/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Cascarilla">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Neumonía">
+        <j.0:broader>
+          <j.0:Concept rdf:about="http://enfermedades/enfermedad/Enfermedades">
+            <j.0:prefLabel>Enfermedades</j.0:prefLabel>
+          </j.0:Concept>
+        </j.0:broader>
+        <j.0:prefLabel>Neumonía</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Gripe">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Gripe</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Reumatismo">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Reumatismo</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Paludismo">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Paludismo</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>De la cascara se obtiene la quinina para tratar el paludismo que es el uso principal de la especie. Para tratar el reumatismo y elevar las defensas del cuerpo contra la gripe y neumonía.</j.0:definition>
+    <j.0:broader>
+      <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Plantas_medicinales">
+        <j.0:prefLabel>Plantas medicinales</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:broader>
+    <j.0:prefLabel>Cascarilla</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Matico_de_canuto">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Dolores_de_los_huesos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Dolores de los huesos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Dolores_musculares">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Dolores musculares</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Para dolores musculares y de los huesos.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Matico de canuto</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Valeriana_de_canuto_valeriana_hedionda">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Nervios">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Nervios</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Insomnio">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Insomnio</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Calambres">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Calambres</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Se usa para tratar calambres, insomnio y nervios.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Valeriana de canuto, valeriana hedionda</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Guando_rojo_campanilla">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Mal_de_ojo">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Mal de ojo</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Mal_aire">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Mal aire</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Abscesos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Abscesos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Planta medicinal que cura abscesos con pus, mal aire y mal de ojo. Además tiene propiedades fungicidas. Se siembra una planta de guando en la entrada de la casa y protege de la envidia y mala suerte.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Guando rojo, campanilla</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Tiatina">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Escorbuto">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Escorbuto</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Salpullidos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Salpullidos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Inflamaciones_de_los_riñones">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Inflamaciones de los riñones</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Fiebre">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Fiebre</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Dolores_en_el_pecho">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Dolores en el pecho</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Para aliviar dolores en el pecho, para bajar la fiebre, inflamación de los riñones, para desinflamar la piel producto de la presencia de salpullidos (granos) infectados, infección interna denominado escorbuto. Es una planta fresca.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Tiatina</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Ortiga_común_chine">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Golpes">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Golpes</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Dolores_musculares"/>
+    <j.0:definition>Es una planta diurética. Para dolores musculares y golpes.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Ortiga común, chine</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Consuelda_suelda">
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Dolores_de_los_huesos"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_aire"/>
+    <j.0:definition>Es utilizada para curaciones del “mal aire” y aliviar el dolor de los huesos producido por el frio; es una planta calida.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Consuelda, suelda</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Monte_de_raposo">
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_de_ojo"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_aire"/>
+    <j.0:definition>Se usa para tratar el “mal aire” y “mal de ojo”. es una planta cálida.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Monte de raposo</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Valeriana">
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_aire"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Nervios"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Insomnio"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Calambres"/>
+    <j.0:definition>Para calambres e insomnio. Para los nervios y curar el “mal aire”; es una planta cálida.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Valeriana</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Tabaco">
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_de_ojo"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_aire"/>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Sinusitis">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Sinusitis</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Dolor_de_cabeza">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Dolor de cabeza</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Planta medicinal para aliviar el dolor de cabeza y tratar la sinusitis; también para limpias del mal de ojos y mal aire, es una planta cálida.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Tabaco</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Calaguala_carabala">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Afecciones_del_riñón">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Afecciones del riñón</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Afecciones_del_hígado">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Afecciones del hígado</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Planta útil para tratar afecciones del hígado y riñón. Es una planta fresca</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Calaguala, carabala</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Shorga_mata_palo.">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Fracturas">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Fracturas</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Sirve para sanar las fracturas de brazos y piernas, baños de mujeres luego del parto.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Shorga, mata palo.</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Ortiga_macho_Huasca">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Resfrío_de_huesos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Resfrío de huesos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Dolores_articulares">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Dolores articulares</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Reumatismo"/>
+    <j.0:definition>Para tratar el dolor el resfrío de los huesos, reumatismo y dolores articulares.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Ortiga macho, Huasca</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Perlilla">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Infecciones_respiratorias">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Infecciones respiratorias</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Sarampión">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Sarampión</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>En las comunidades rurales se usa para curar el sarampión y, para tratar las infecciones respiratorias.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Perlilla</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Lechuga_roja">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Afecciones_del_sistema_nervioso">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Afecciones del sistema nervioso</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Para tratar afecciones del sistema nervioso.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Lechuga roja</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Mortiño_hierba_mora">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Fatiga">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Fatiga</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Calor_al_pecho">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Calor al pecho</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Gastritis">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Gastritis</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Afecciones_del_hígado"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Dolor_de_cabeza"/>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Resaca">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Resaca</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:definition>Se usa para curar el dolor de cabeza, fatiga, calor al pecho y gastritis, también para afecciones de hígado e inflamaciones en los ojos. El uso más difundido es para aliviar las molestias del chuchaqui (estragos del consumo de bebidas alcohólicas). Es una planta fresca.</j.0:definition>
+    <j.0:prefLabel>Mortiño, hierba mora</j.0:prefLabel>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Inflamaciones_en_los_ojos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Inflamaciones en los ojos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Igualan">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Caspa">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Caspa</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Problemas_dermatológicos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Problemas dermatológicos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Sarpullidos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Sarpullidos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Empeines">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Empeines</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Para curar los empeines sarpullidos y problemas dermatológicos. Para lavar el cabello y eliminar la caspa.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Igualan</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Verbena">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Gangrena">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Gangrena</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Gripe"/>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Hinchazon">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Hinchazon</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Para bajar las hinchazones y aliviar la gripe. También es utilizada para tratar la gangrena. Para castigar a los niños y adolescentes cuando son andariegos.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Verbena</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Mollentín">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Inflamaciones_por_golpes">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Inflamaciones por golpes</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Para tratar las inflamaciones provocadas por golpes en extremidades de animales y humanos.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Mollentín</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Cucharillo_gañil">
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Inflamaciones_de_los_riñones"/>
+    <j.0:definition>Es una planta “fresca”, se usa para aliviar inflamaciones de los riñones. Es una de las principales plantas utilizadas en la elaboración de la horchata lojana. Es una planta fresca.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Cucharillo, gañil</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Cadillo_abrojo">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Riñones_inflamados">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Riñones inflamados</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Gripe"/>
+    <j.0:definition>Es una planta fresca, por esta razón su uso es muy difundido para desinflamar el organismo (riñones) y aliviar los síntomas de la gripe cuando es por exceso de calor. Es una planta fresca.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Cadillo, abrojo</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Guando_blanco_Floripondio">
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Dolores_artríticos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Dolores artríticos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Dolores_reumáticos">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Dolores reumáticos</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_de_ojo"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Mal_aire"/>
+    <j.0:definition>Planta de olor fuerte usada para curar el mal aire y mal de ojo. Alivia dolores reumáticos y artríticos. Una planta sembrada cerca de la casa protege de la envidia y mala suerte. Es alucinógeno usado en religión, magia y medicina (Béjar et al., 2001; de la Torre et al., 2008). Además tiene propiedades pesticidas.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Guando blanco, Floripondio</j.0:prefLabel>
+  </j.0:Concept>
+  <j.0:Concept rdf:about="http://plantas_medicinales.org/planta/Sauco_negro">
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Fiebre"/>
+    <j.0:related rdf:resource="http://enfermedades/enfermedad/Dolor_de_cabeza"/>
+    <j.0:related>
+      <j.0:Concept rdf:about="http://enfermedades/enfermedad/Resfrío">
+        <j.0:broader rdf:resource="http://enfermedades/enfermedad/Enfermedades"/>
+        <j.0:prefLabel>Resfrío</j.0:prefLabel>
+      </j.0:Concept>
+    </j.0:related>
+    <j.0:definition>Se utiliza para resfríos, dolor de cabeza y fiebre. Para aliviar la inflamación en los niños producido por el calor.</j.0:definition>
+    <j.0:broader rdf:resource="http://plantas_medicinales.org/planta/Plantas_medicinales"/>
+    <j.0:prefLabel>Sauco negro</j.0:prefLabel>
+  </j.0:Concept>
+</rdf:RDF>
